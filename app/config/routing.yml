@@ -1,3 +1,11 @@
+societe_front:
+    resource: "@SocieteFrontBundle/Resources/config/routing.yml"
+    prefix:   /
+
+societe_back:
+    resource: "@SocieteBackBundle/Resources/config/routing.yml"
+    prefix:   /admin
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation

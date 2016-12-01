@@ -8,6 +8,6 @@ class DefaultController extends Controller
 {
     public function indexAction()
     {
-        return $this->render('SocieteFrontBundle:Default:index.html.twig');
+        return $this->render('SocieteFrontBundle::base_front.html.twig');
     }
 }
