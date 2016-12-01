@@ -2,6 +2,14 @@ security_user:
     resource: "@SecurityUserBundle/Resources/config/routing.yml"
     prefix:   /
 
+societe_front:
+    resource: "@SocieteFrontBundle/Resources/config/routing.yml"
+    prefix:   /
+
+societe_back:
+    resource: "@SocieteMainBundle/Resources/config/routing.yml"
+    prefix:   /admin
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation
