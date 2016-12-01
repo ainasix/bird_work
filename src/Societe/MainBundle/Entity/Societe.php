@@ -1,6 +1,6 @@
 <?php
 
-namespace Societe\BackBundle\Entity;
+namespace Societe\MainBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 
