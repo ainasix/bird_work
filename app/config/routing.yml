@@ -1,6 +1,6 @@
 security_user:
     resource: "@SecurityUserBundle/Resources/config/routing.yml"
-    prefix:   /
+    prefix:   /security
 
 societe_front:
     resource: "@SocieteFrontBundle/Resources/config/routing.yml"
