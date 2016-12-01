@@ -3,7 +3,7 @@ societe_front:
     prefix:   /
 
 societe_back:
-    resource: "@SocieteBackBundle/Resources/config/routing.yml"
+    resource: "@SocieteMainBundle/Resources/config/routing.yml"
     prefix:   /admin
 
 app:
