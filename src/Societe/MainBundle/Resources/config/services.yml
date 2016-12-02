@@ -1,4 +1,0 @@
-services:
-#    societe_back.example:
-#        class: Societe\BackBundle\Example
-#        arguments: ["@service_id", "plain_value", "%parameter%"]

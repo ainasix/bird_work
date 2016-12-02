@@ -1,3 +1,0 @@
-societe_front_homepage:
-    path:     /
-    defaults: { _controller: SocieteFrontBundle:Default:index }

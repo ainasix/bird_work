@@ -1,3 +1,0 @@
-societe_back_homepage:
-    path:     /
-    defaults: { _controller: SocieteMainBundle:Default:index }
